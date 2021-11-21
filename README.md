@@ -1,9 +1,13 @@
 # PrimeFinder
 Prime finder by. Minco
 
+## The URL of result.txt
+I uploaded result.txt in my server because it's too large.
+You can download it [here](https://www.minco.kro.kr/dumps/prime/result.txt). (**Do not visit this in browser! Your browser will stop immediately!**)
+
 The example (JavaScript)
 ```js
-var data = <The string data of this file>
+var data = <The string data of result.txt file>
 data = data.split(" ").map(Number);
 ```
 
