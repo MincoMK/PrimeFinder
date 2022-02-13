@@ -1,6 +1,5 @@
 # PrimeFinder
-Prime finder by. Minco  
-The C++ code of finder is not mine ([The original]()), I modified it little.
+Prime finder by. Minco
 
 ## The URL of result.txt
 I uploaded result.txt in my server because it's too large.  
